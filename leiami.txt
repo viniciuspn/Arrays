@@ -1,0 +1,20 @@
+Para executar aplicação é necessário ter o node js e npm instalado em sua máquina.
+Link para dowload 
+node: https://nodejs.org/en/download/
+
+
+Instalação no Linux​​ :
+acesso terminal e digite o seguintes comandos abaixo:
+Instalar node js​​ :
+sudo apt-get update
+sudo apt-get install nodejs
+sudo apt-get install npm
+
+
+Após a instalação acessar a pasta do projeto e instalar as dependências utilize o comando ‘npm install’
+Após a instalação das dependência execute o comando ‘node app.js’ para executar a aplicação.
+
+
+
+
+
